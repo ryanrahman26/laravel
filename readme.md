@@ -9,3 +9,7 @@
 - php artisan migrate --seed
 - php artisan key:generate
 - php artisan serve
+
+## Login
+- Email: user1@gmail.com
+- Password: 12345678 
